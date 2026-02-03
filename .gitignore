@@ -1,0 +1,6 @@
+# CSV files that might contain real company data
+*.csv
+!sample_hardware.csv
+
+# Colab/Jupyter
+.ipynb_checkpoints/
