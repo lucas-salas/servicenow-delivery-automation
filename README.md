@@ -77,8 +77,8 @@ This script processes ServiceNow CSV exports and automatically generates formatt
 
 ## Future Improvements
 
-- Direct ServiceNow API integration (eliminate CSV export step)
-- Support for additional data fields
+- Turn into a proper web app
+- Support a 'misc' device section (not all devices have barcodes)
 - Automated work note posting
 
 ## Contributing
